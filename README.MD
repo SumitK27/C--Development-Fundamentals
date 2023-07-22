@@ -1,8 +1,10 @@
 # **C# Fundamentals** <!-- omit in toc -->
 
 1. [**C# - The Big Picture**](#c---the-big-picture)
+2. [**C# - Getting Started**](#c---getting-started)
 
 ## **C# - The Big Picture**
+
 1. [**C#**](./1.%20The%20Big%20Picture/README.MD#c)
 2. [**Different types of Language Architectures**](./1.%20The%20Big%20Picture/README.MD#different-types-of-language-architectures)
    1. [**1. Native/Compiled**](./1.%20The%20Big%20Picture/README.MD#1-nativecompiled)
@@ -17,3 +19,42 @@
       1. [**Process**](./1.%20The%20Big%20Picture/README.MD#process-2)
       2. [**Pros**](./1.%20The%20Big%20Picture/README.MD#pros-2)
 
+## **C# - Getting Started**
+
+1. [**Project**](./2.%20Getting%20Started/README.MD#project)
+2. [**Solution**](./2.%20Getting%20Started/README.MD#solution)
+3. [**Create a Project**](./2.%20Getting%20Started/README.MD#create-a-project)
+4. [**Run a Project**](./2.%20Getting%20Started/README.MD#run-a-project)
+5. [**Naming Convention**](./2.%20Getting%20Started/README.MD#naming-convention)
+6. [**Console Methods**](./2.%20Getting%20Started/README.MD#console-methods)
+7. [**DataTypes in C#**](./2.%20Getting%20Started/README.MD#datatypes-in-c)
+   1. [**Integer Types**](./2.%20Getting%20Started/README.MD#integer-types)
+      1. [**Signed Integers**](./2.%20Getting%20Started/README.MD#signed-integers)
+      2. [**Unsigned Integers**](./2.%20Getting%20Started/README.MD#unsigned-integers)
+      3. [**Native**](./2.%20Getting%20Started/README.MD#native)
+   2. [**Decimal Types**](./2.%20Getting%20Started/README.MD#decimal-types)
+   3. [**Other Types**](./2.%20Getting%20Started/README.MD#other-types)
+8. [**Variables in C#**](./2.%20Getting%20Started/README.MD#variables-in-c)
+9. [**Type Inference**](./2.%20Getting%20Started/README.MD#type-inference)
+10. [**Array**](./2.%20Getting%20Started/README.MD#array)
+11. [**String Representation**](./2.%20Getting%20Started/README.MD#string-representation)
+12. [**Comments**](./2.%20Getting%20Started/README.MD#comments)
+13. [**Function in C#**](./2.%20Getting%20Started/README.MD#function-in-c)
+14. [**Access Modifiers in C#**](./2.%20Getting%20Started/README.MD#access-modifiers-in-c)
+    1. [**Types of Assess Modifiers**](./2.%20Getting%20Started/README.MD#types-of-assess-modifiers)
+       1. [**Private**](./2.%20Getting%20Started/README.MD#private)
+       2. [**Protected**](./2.%20Getting%20Started/README.MD#protected)
+       3. [**Public**](./2.%20Getting%20Started/README.MD#public)
+       4. [**Internal**](./2.%20Getting%20Started/README.MD#internal)
+       5. [**Protected Internal**](./2.%20Getting%20Started/README.MD#protected-internal)
+       6. [**Private Protected**](./2.%20Getting%20Started/README.MD#private-protected)
+15. [**Namespace in C#**](./2.%20Getting%20Started/README.MD#namespace-in-c)
+16. [**Recognizing constructs in Program**](./2.%20Getting%20Started/README.MD#recognizing-constructs-in-program)
+17. [**Refactoring Code with Visual Studio**](./2.%20Getting%20Started/README.MD#refactoring-code-with-visual-studio)
+18. [**Top Level Statements**](./2.%20Getting%20Started/README.MD#top-level-statements)
+19. [**Global Using**](./2.%20Getting%20Started/README.MD#global-using)
+20. [**Debugging Code with Visual Studio**](./2.%20Getting%20Started/README.MD#debugging-code-with-visual-studio)
+    1. [**Steps**](./2.%20Getting%20Started/README.MD#steps)
+21. [**Visual Studio Features**](./2.%20Getting%20Started/README.MD#visual-studio-features)
+    1. [**Automated Tools**](./2.%20Getting%20Started/README.MD#automated-tools)
+    2. [**Shortcuts**](./2.%20Getting%20Started/README.MD#shortcuts)
