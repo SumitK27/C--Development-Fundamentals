@@ -1,5 +1,10 @@
 # **C# Fundamentals** <!-- omit in toc -->
 
+- This repository is a text representation of the resources (videos, blogs, etc.) available online.
+- [PluralSight - C# Development Fundamentals](https://www.pluralsight.com/paths/c-10)
+
+## **Table of Content** <!-- omit in toc -->
+
 1. [**C# - The Big Picture**](#c---the-big-picture)
 2. [**C# - Getting Started**](#c---getting-started)
 
