@@ -7,6 +7,7 @@
 
 1. [**C# - The Big Picture**](#c---the-big-picture)
 2. [**C# - Getting Started**](#c---getting-started)
+3. [**Controlling Program Flow in C#**](#controlling-program-flow-in-c)
 
 ## **C# - The Big Picture**
 
@@ -63,3 +64,30 @@
 21. [**Visual Studio Features**](./2.%20Getting%20Started/README.MD#visual-studio-features)
     1. [**Automated Tools**](./2.%20Getting%20Started/README.MD#automated-tools)
     2. [**Shortcuts**](./2.%20Getting%20Started/README.MD#shortcuts)
+
+## **Controlling Program Flow in C#**
+
+1. [**Program Flow**](./3.%20Controlling%20Program%20Flow/README.MD#program-flow)
+2. [**Operators**](./3.%20Controlling%20Program%20Flow/README.MD#operators)
+   1. [**Arithmetic Operators**](./3.%20Controlling%20Program%20Flow/README.MD#arithmetic-operators)
+   2. [**Assignment Operators**](./3.%20Controlling%20Program%20Flow/README.MD#assignment-operators)
+   3. [**Comparison Operators**](./3.%20Controlling%20Program%20Flow/README.MD#comparison-operators)
+   4. [**Logical Operators**](./3.%20Controlling%20Program%20Flow/README.MD#logical-operators)
+3. [**Statements**](./3.%20Controlling%20Program%20Flow/README.MD#statements)
+4. [**Types of Statements**](./3.%20Controlling%20Program%20Flow/README.MD#types-of-statements)
+   1. [**Declaration Statements (Local Variables)**](./3.%20Controlling%20Program%20Flow/README.MD#declaration-statements-local-variables)
+   2. [**Expression Statements**](./3.%20Controlling%20Program%20Flow/README.MD#expression-statements)
+      1. [**Expression vs Statements**](./3.%20Controlling%20Program%20Flow/README.MD#expression-vs-statements)
+   3. [**Selection Statements (If-Else, Switch)**](./3.%20Controlling%20Program%20Flow/README.MD#selection-statements-if-else-switch)
+      1. [**If-Else**](./3.%20Controlling%20Program%20Flow/README.MD#if-else)
+      2. [**Switch**](./3.%20Controlling%20Program%20Flow/README.MD#switch)
+      3. [**Ternary**](./3.%20Controlling%20Program%20Flow/README.MD#ternary)
+      4. [**Switch Expression**](./3.%20Controlling%20Program%20Flow/README.MD#switch-expression)
+      5. [**Switch with When**](./3.%20Controlling%20Program%20Flow/README.MD#switch-with-when)
+      6. [**Switch with Type Matching**](./3.%20Controlling%20Program%20Flow/README.MD#switch-with-type-matching)
+   4. [**Iteration Statements (Loops)**](./3.%20Controlling%20Program%20Flow/README.MD#iteration-statements-loops)
+      1. [**For**](./3.%20Controlling%20Program%20Flow/README.MD#for)
+      2. [**Foreach**](./3.%20Controlling%20Program%20Flow/README.MD#foreach)
+      3. [**While**](./3.%20Controlling%20Program%20Flow/README.MD#while)
+      4. [**Do-While**](./3.%20Controlling%20Program%20Flow/README.MD#do-while)
+   5. [**Exception Handling Statements**](./3.%20Controlling%20Program%20Flow/README.MD#exception-handling-statements)
